@@ -1,5 +1,5 @@
 from app import sumar
 
 def test_sumar():
-    assert sumar(2, 3) == 99
+    assert sumar(2, 3) == 5
     
